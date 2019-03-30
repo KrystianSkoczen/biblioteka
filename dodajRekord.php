@@ -64,7 +64,7 @@
                     ?>                        
                 </p>
                 <p>
-                    <a href="formularz.html">
+                    <a href="index.html">
                         Dodaj nowy tytuł
                     </a>
                 </p>    
